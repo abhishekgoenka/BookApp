@@ -2,14 +2,14 @@
 This repository demonstrates couple of good concepts on Entry Framework. 
 * Seeding database
 * Loading related data
- * Eager Loading
- * Explicit Loading
- * Select loading
- * Lazy loading
+    * Eager Loading
+    * Explicit Loading
+    * Select loading
+    * Lazy loading
 * Handling relationship
- * one-to-one 
- * one-to-many
- * many-to-many
+    * one-to-one 
+    * one-to-many
+    * many-to-many
 * Sorting, Filtering and Paging
 * CRUD operation on DB    
 
